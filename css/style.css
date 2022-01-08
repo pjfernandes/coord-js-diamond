@@ -1,0 +1,24 @@
+@import url('footer.css');
+
+body {
+  background-color: #F4F4F4;
+}
+
+.footer-copyright {
+  font-size: 12px;
+}
+
+#map {
+  position: center;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.form-group{
+  box-shadow: 0 0 8px rgba(0,0,0,0.2);
+}
+
+.btn {
+  box-shadow: 0 0 8px rgba(0,0,0,0.2);
+}
