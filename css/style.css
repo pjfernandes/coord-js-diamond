@@ -1,11 +1,12 @@
 @import url('footer.css');
 
 body {
-  background-color: #F4F4F4;
+  background-color: #F0E5E1;
 }
 
 .footer-copyright {
   font-size: 12px;
+  color: #82324D;
 }
 
 #map {
@@ -21,6 +22,13 @@ body {
 
 .btn {
   box-shadow: 0 0 8px rgba(0,0,0,0.2);
+  background-color: #82324D;
+  border: 1px solid #82324D;
+}
+
+.btn:hover {
+  background-color: #797572;
+  border: 1px solid #82324D;
 }
 
 .logo {
@@ -30,4 +38,8 @@ body {
 
 .results {
   text-shadow: 0 0 8px rgba(0,0,0,0.2);
+}
+
+.coordinates-color {
+  color: #82324D;
 }
