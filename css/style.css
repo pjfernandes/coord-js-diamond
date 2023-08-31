@@ -43,3 +43,12 @@ body {
 .coordinates-color {
   color: #82324D;
 }
+
+.marker {
+  background-image: url('https://eadn-wc01-8996525.nxedge.io/pub/static/version1693219785/frontend/Venustheme/need_child/en_US/images/diamond.png');
+  background-size: cover;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  cursor: pointer;
+}
